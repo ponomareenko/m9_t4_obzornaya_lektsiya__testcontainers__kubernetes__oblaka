@@ -1,4 +1,4 @@
-/.DS_Store
+*.DS_Store
 /conditional_prilozhenie/gradle
 /conditional_prilozhenie/.gitattributes
 /conditional_prilozhenie/.gitignore
